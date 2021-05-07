@@ -14,4 +14,4 @@
 - What is a key in a dictionary
 - How to iterate into a dictionary
 - What is a lambda function
-- What is map, reduce and filter functions
+- What is map, reduce and filter function
