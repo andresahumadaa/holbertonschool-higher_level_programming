@@ -12,5 +12,5 @@ def safe_print_list(my_list=[], x=0):
             a += 1
             b += 1
         except:
-            break;
+            break
     return b
