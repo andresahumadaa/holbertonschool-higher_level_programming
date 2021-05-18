@@ -5,8 +5,7 @@
 def safe_print_integer(value):
     '''prints x elements of a list'''
     try:
-        number = int(value)
-        print(number)
+        print("{:d}".format(value))
         return True
     except:
         return False
